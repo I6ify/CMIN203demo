@@ -1,0 +1,145 @@
+1594446410058	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\isaac\\AppData\\Local\\Temp\\rust_mozprofileREgWmK"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594446411373	Marionette	INFO	Listening on port 55711
+1594446411563	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594446413613	Marionette	INFO	Stopped listening on port 55711
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1594446581933	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\isaac\\AppData\\Local\\Temp\\rust_mozprofiletXHUE0"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594446583145	Marionette	INFO	Listening on port 55864
+1594446583438	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594446584797	Marionette	INFO	Stopped listening on port 55864
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1594446601723	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\isaac\\AppData\\Local\\Temp\\rust_mozprofileZdeEBN"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594446602935	Marionette	INFO	Listening on port 55937
+1594446603229	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1594446651766	Marionette	INFO	Stopped listening on port 55937
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1594446661204	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\isaac\\AppData\\Local\\Temp\\rust_mozprofileb6BWpr"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594446662434	Marionette	INFO	Listening on port 56040
+1594446662708	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 15956, MediaDecoderStateMachine #1] WARNING: Decoder=275872ee800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594446712076	Marionette	INFO	Listening on port 56142
+1594446712269	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 13092, MediaDecoderStateMachine #1] WARNING: Decoder=2be8488f400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp, line 3470
+[Child 13092, MediaDecoderStateMachine #1] WARNING: Decoder=2be8488f400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp, line 3470
+[Child 13092, MediaDecoderStateMachine #1] WARNING: Decoder=2be8488f400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp, line 3470
+[Child 13092, MediaDecoderStateMachine #1] WARNING: Decoder=2be8488f400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp, line 3470
+[Child 13092, MediaDecoderStateMachine #1] WARNING: Decoder=2be8488f400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp, line 3470
+[Child 13092, MediaDecoderStateMachine #1] WARNING: Decoder=2be8488f400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp, line 3470
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.firefox.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 119: TypeError: gRecipeManager is null
+Log warning: The log 'Services.Common.RESTRequest' is configured to use the preference 'services.common.log.logger.rest.request' - you must adjust the level by setting this preference, not by using the level setter
+JavaScript error: moz-extension://657722a7-f3e4-425e-8737-30e6a650807e/h0-main.js, line 1: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: moz-extension://657722a7-f3e4-425e-8737-30e6a650807e/h0-main.js, line 1: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: moz-extension://657722a7-f3e4-425e-8737-30e6a650807e/h0-main.js, line 1: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: moz-extension://657722a7-f3e4-425e-8737-30e6a650807e/h0-main.js, line 1: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: moz-extension://657722a7-f3e4-425e-8737-30e6a650807e/h0-main.js, line 1: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: moz-extension://657722a7-f3e4-425e-8737-30e6a650807e/h0-main.js, line 1: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: moz-extension://657722a7-f3e4-425e-8737-30e6a650807e/h0-main.js, line 1: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: moz-extension://657722a7-f3e4-425e-8737-30e6a650807e/h0-main.js, line 1: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: moz-extension://657722a7-f3e4-425e-8737-30e6a650807e/h0-main.js, line 1: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: moz-extension://657722a7-f3e4-425e-8737-30e6a650807e/h0-main.js, line 1: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: moz-extension://657722a7-f3e4-425e-8737-30e6a650807e/h0-main.js, line 1: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: moz-extension://657722a7-f3e4-425e-8737-30e6a650807e/h0-main.js, line 1: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: moz-extension://657722a7-f3e4-425e-8737-30e6a650807e/h0-main.js, line 1: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: moz-extension://657722a7-f3e4-425e-8737-30e6a650807e/h0-main.js, line 1: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: moz-extension://657722a7-f3e4-425e-8737-30e6a650807e/h0-main.js, line 1: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: moz-extension://657722a7-f3e4-425e-8737-30e6a650807e/h0-main.js, line 1: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: moz-extension://657722a7-f3e4-425e-8737-30e6a650807e/h0-main.js, line 1: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: moz-extension://657722a7-f3e4-425e-8737-30e6a650807e/h0-main.js, line 1: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: moz-extension://657722a7-f3e4-425e-8737-30e6a650807e/h0-main.js, line 1: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: moz-extension://657722a7-f3e4-425e-8737-30e6a650807e/h0-main.js, line 1: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: moz-extension://657722a7-f3e4-425e-8737-30e6a650807e/h0-main.js, line 1: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: moz-extension://657722a7-f3e4-425e-8737-30e6a650807e/h0-main.js, line 1: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: moz-extension://657722a7-f3e4-425e-8737-30e6a650807e/h0-main.js, line 1: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: moz-extension://657722a7-f3e4-425e-8737-30e6a650807e/h0-main.js, line 1: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: moz-extension://657722a7-f3e4-425e-8737-30e6a650807e/h0-main.js, line 1: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: moz-extension://657722a7-f3e4-425e-8737-30e6a650807e/h0-main.js, line 1: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: moz-extension://657722a7-f3e4-425e-8737-30e6a650807e/h0-main.js, line 1: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: moz-extension://657722a7-f3e4-425e-8737-30e6a650807e/h0-main.js, line 1: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: moz-extension://657722a7-f3e4-425e-8737-30e6a650807e/h0-main.js, line 1: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: moz-extension://657722a7-f3e4-425e-8737-30e6a650807e/h0-main.js, line 1: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: moz-extension://657722a7-f3e4-425e-8737-30e6a650807e/h0-main.js, line 1: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: moz-extension://657722a7-f3e4-425e-8737-30e6a650807e/h0-main.js, line 1: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: moz-extension://657722a7-f3e4-425e-8737-30e6a650807e/h0-main.js, line 1: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: moz-extension://657722a7-f3e4-425e-8737-30e6a650807e/h0-main.js, line 1: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: moz-extension://657722a7-f3e4-425e-8737-30e6a650807e/h0-main.js, line 1: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: moz-extension://657722a7-f3e4-425e-8737-30e6a650807e/h0-main.js, line 1: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: moz-extension://657722a7-f3e4-425e-8737-30e6a650807e/h0-main.js, line 1: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: moz-extension://657722a7-f3e4-425e-8737-30e6a650807e/h0-main.js, line 1: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: moz-extension://657722a7-f3e4-425e-8737-30e6a650807e/h0-main.js, line 1: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: moz-extension://657722a7-f3e4-425e-8737-30e6a650807e/h0-main.js, line 1: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: moz-extension://657722a7-f3e4-425e-8737-30e6a650807e/h0-main.js, line 1: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: moz-extension://657722a7-f3e4-425e-8737-30e6a650807e/h0-main.js, line 1: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: moz-extension://657722a7-f3e4-425e-8737-30e6a650807e/h0-main.js, line 1: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: moz-extension://657722a7-f3e4-425e-8737-30e6a650807e/h0-main.js, line 1: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: moz-extension://657722a7-f3e4-425e-8737-30e6a650807e/h0-main.js, line 1: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: moz-extension://657722a7-f3e4-425e-8737-30e6a650807e/h0-main.js, line 1: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: moz-extension://657722a7-f3e4-425e-8737-30e6a650807e/h0-main.js, line 1: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: moz-extension://657722a7-f3e4-425e-8737-30e6a650807e/h0-main.js, line 1: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: moz-extension://657722a7-f3e4-425e-8737-30e6a650807e/h0-main.js, line 1: Error: Could not establish connection. Receiving end does not exist.
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1594446813497	Marionette	INFO	Stopped listening on port 56142
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1594446820179	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\isaac\\AppData\\Local\\Temp\\rust_mozprofileuL0RFU"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594446821414	Marionette	INFO	Listening on port 56434
+1594446821685	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1594446833643	Marionette	INFO	Stopped listening on port 56434
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
