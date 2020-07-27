@@ -48,3 +48,10 @@ class Dragon(Monster):
     min_experience = 6
     max_experience = 10
     sound = 'raaaarrrrarrrrwww'
+    
+class Lich(Monster):
+    min_hit_points = 15
+    max_hit_points = 22
+    min_experience = 10
+    max_experience = 12
+    sound = 'Run while you can!'
