@@ -29,7 +29,7 @@ def play(word):  #this is my function which plays the game itself
                 print(guess, "is not in the word, " + name)
                 lives -= 1
                 guess_letters.append(guess)
-                print(lives)
+                print("You have " + str(lives), "lives remaining.")
                 print("\n")
             else:
                 print(guess, "is in the word!")
@@ -41,6 +41,7 @@ def play(word):  #this is my function which plays the game itself
                 word_completion = "".join(word_as_list)
                 if "_" not in word_completion:
                     guessed = True
+                print(word_completion)
         elif len(guess) != 1 or isnotalpha():
             print("please enter a single letter, " + name)
 
